@@ -1,0 +1,10 @@
+<html>
+<body>
+<div style="float:left">
+<img src="quote.jpg" height="400px">
+</div>
+<div>
+<img src="quote2.png" width="588px" height="400px">
+</div>
+</body>
+</html>
